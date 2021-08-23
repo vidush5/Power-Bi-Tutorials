@@ -3,7 +3,7 @@ This repo contains the tips & tricks that I learnt from youtube channels and art
 
 
 # Power Projects
-## Olympics Data Analysis
+## 01. Olympics Data Analysis
 ![alt text](./MavenAnalytics/Olympic_Athletes/img.PNG)
 
 ## Power Bi Learnings
